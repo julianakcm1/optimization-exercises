@@ -23,6 +23,7 @@ Each notebook formulates a problem with decision variables, constraints, and an 
 | `11.padroes.ipynb`                      | Cutting patterns (can production)           |
 | `12.facilidades.ipynb`                  | Facility location                           |
 | `13.frequencia.ipynb`                   | Frequency assignment                        |
+| `14.caixeiro_viajante.ipynb`            | TSP                                         |
 
 
 ## Requirements
