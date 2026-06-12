@@ -25,6 +25,7 @@ Each notebook formulates a problem with decision variables, constraints, and an 
 | `13.frequencia.ipynb`                   | Frequency assignment                        |
 | `14.caixeiro_viajante.ipynb`            | TSP                                         |
 | `15.roteamento_veiculos.ipynb`          | CVRP                                        |
+| `16.caminho_minimo.ipynb`               | Shortest path                               |
 
 
 ## Requirements
